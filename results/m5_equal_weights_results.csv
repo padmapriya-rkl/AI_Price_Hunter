@@ -1,0 +1,2 @@
+method,queries_evaluated,text_products_indexed,image_products_indexed,attribute_products_indexed,top_candidates_per_modality,top_k,weight_text,weight_image,weight_attribute,hit_rate_at_10,recall_at_10,ndcg_at_10,relevance_definition,split_note,attribute_score_normalized
+M5 Equal-Weight Text+Image+BrandColor,1344,156542,156542,156542,200,10,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.7559523809523809,0.2121025947163299,0.3417285348213266,E/S binary relevance,Internal query partition; not official ESCI test split,False

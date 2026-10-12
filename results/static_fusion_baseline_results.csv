@@ -1,0 +1,2 @@
+model,queries,products,embedding_dim,recall_at_10,ndcg_at_10,faiss_time_seconds
+Static CLIP Text + Image,8956,156542,768,0.6308619919606967,0.2611581476848349,4.121474981307983

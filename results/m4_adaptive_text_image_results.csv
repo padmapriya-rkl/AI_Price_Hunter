@@ -1,0 +1,2 @@
+method,queries_evaluated,products_indexed,recall_at_10,ndcg_at_10
+M4 Adaptive Text+Image,1344,156542,0.6971726190476191,0.32391934542919704

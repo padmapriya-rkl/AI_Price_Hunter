@@ -1,0 +1,2 @@
+method,queries_evaluated,text_products_indexed,image_products_indexed,attribute_products_indexed,top_candidates_per_modality,top_k,weight_text,weight_image,weight_attribute,hit_rate_at_10,recall_at_10,ndcg_at_10
+M5 Static Text+Image+BrandColor,1344,156542,156542,156542,200,10,0.4,0.4,0.2,0.7485119047619048,0.21116359913116417,0.3376097838162026

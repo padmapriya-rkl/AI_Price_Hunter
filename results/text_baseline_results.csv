@@ -1,0 +1,2 @@
+model,recall@10,ndcg@10,num_queries,num_products,top_k
+MiniLM + FAISS,0.2200040128410915,0.045196811429008034,9968,167531,10

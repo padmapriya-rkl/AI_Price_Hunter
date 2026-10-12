@@ -1,0 +1,2 @@
+model,queries,products,embedding_dim,recall_at_10,ndcg_at_10,faiss_time_seconds
+CLIP Image + FAISS,8956,156542,768,0.7395042429656097,0.3046028991360644,4.328174591064453

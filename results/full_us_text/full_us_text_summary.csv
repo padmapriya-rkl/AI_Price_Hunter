@@ -1,0 +1,2 @@
+model,dataset,queries_evaluated,products_indexed,top_k,recall_at_10,hit_rate_at_10,ndcg_at_10,runtime_minutes
+MiniLM + Full US FAISS,Official ESCI US test,22458,1215854,10,0.16418318624727551,0.6964110784575652,0.27526044557208,13.269187287489574

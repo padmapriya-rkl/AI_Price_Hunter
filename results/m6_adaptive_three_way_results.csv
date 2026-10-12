@@ -1,0 +1,2 @@
+method,queries_evaluated,text_products_indexed,image_products_indexed,attribute_products_indexed,top_candidates_per_modality,top_k,hit_rate_at_10,recall_at_10,ndcg_at_10,mean_weight_text,mean_weight_image,mean_weight_attribute,split_note
+M6 Adaptive Text+Image+BrandColor,1344,156542,156542,156542,200,10,0.7447916666666666,0.21361571640068902,0.34869570307620623,0.2337790884332554,0.7501713859715632,0.01604952494762117,Internal query partition from parquet labelled dataset_split=test
