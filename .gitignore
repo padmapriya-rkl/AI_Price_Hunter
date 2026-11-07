@@ -1,0 +1,25 @@
+# Dataset and large data artifacts
+data/
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Model checkpoints and backups
+*.pt
+*.pth
+*.ckpt
+*.bak
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
